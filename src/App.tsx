@@ -6,7 +6,7 @@ import SignupForm from "./_auth/forms/SignupForm"
 import AuthLayout from "./_auth/AuthLayout"
 import RootLayout from "./_root/RootLayout"
 
-const App = () => {
+const App = () => {  
   return (
   <main>
     <Routes>
